@@ -7,6 +7,7 @@
   <br><br>
   🎓&nbsp;&nbsp;Estudante do 2º período de Análise e Desenvolvimento de Sistemas na <a href="https://portal.uniasselvi.com.br/" target="_blank">Uniasselvi</a>.
   <br><br>
+  
 ### 🛠️ Tecnologias e ferramentas que estou usando
 
 <br>
