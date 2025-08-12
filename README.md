@@ -3,7 +3,7 @@
 <br>
 
 <p align="left">
-  👨‍💻Tenho 19 anos e estou focado em me tornar um engenheiro de software.
+  👨‍💻&nbsp;&nbsp;Tenho 19 anos e estou focado em me tornar um engenheiro de software.
   <br><br>
   🎓&nbsp;&nbsp;Estudante do 2º período de Análise e Desenvolvimento de Sistemas na <a href="https://portal.uniasselvi.com.br/" target="_blank">Uniasselvi</a>.
   <br><br>
